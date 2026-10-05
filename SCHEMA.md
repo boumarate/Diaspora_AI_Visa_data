@@ -459,3 +459,8 @@ Breaking changes will increment the major version.
 ---
 
 *Schema version: 1.0.0*
+
+
+## Example Usage
+
+Resolved parameter handling for issue #4.
