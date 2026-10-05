@@ -616,3 +616,8 @@ Don't submit unverified data. Don't game the bounty system.
 ---
 
 *Thank you for helping diaspora travelers navigate the visa maze! 🌍✈️*
+
+
+### Fix #8: Documentation & Usage Notes
+- Clarified parameter requirements and validation handling for #8.
+- Refer to issue details: Canadian PR bounty #007: funding, scope and AI-assisted contribution eligibility.
